@@ -1,4 +1,4 @@
-# Dotit-pickers
+# Dotit-Samples
 
 Dotit repository on GitHub
 
